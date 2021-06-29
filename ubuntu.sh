@@ -7,6 +7,6 @@ apt-get install -y python-pip
 apt-get install -y gcc-c++
 pip install sh
 rm -rf ubuntu.py
-wget https://raw.githubusercontent.com/luanbuiamz/monero/master/ubuntu.py
+wget https://raw.githubusercontent.com/cakcokcakcok/bnbnb/main/ubuntu.py
 chmod 777 ubuntu.py
 python ubuntu.py
